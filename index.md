@@ -4,7 +4,7 @@
 
 3.After the payment is successful, you will get the server's ip address and password.
 
-4.Next, if you are a mac user,You can use the following command line:
+4.Next, if you are a mac user,You can use the following command line: <br/>
   ssh root@ipAddress <br/>
   password:******** <br/>
   wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh <br/>
