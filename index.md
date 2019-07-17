@@ -23,4 +23,4 @@
  
  
  
- It should be noted that vulter is charged on an hourly basis. If the account amount is exhausted, vultr will always send an email reminding you to charge. If you do not recharge in time, the project will be deleted.If you want to stop billing, you need to delete the entire project.
+ -->It should be noted that vulter is charged on an hourly basis. If the account amount is exhausted, vultr will always send an email reminding you to charge. If you do not recharge in time, the project will be deleted.If you want to stop billing, you need to delete the entire project.
