@@ -14,3 +14,13 @@
  5.At this point, you will get the ip address, port, password, and encryption method.
  
  6.Find a tool on github, then download and install, enter the information obtained in the previous step.
+  address: https://github.com/shadowsocks/ShadowsocksX-NG
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ It should be noted that vulter is charged on an hourly basis. If the account amount is exhausted, vultr will always send an email reminding you to charge. If you do not recharge in time, the project will be deleted.If you want to stop billing, you need to delete the entire project.
